@@ -1,4 +1,5 @@
 # Network Traffic Anomaly Classifier using ML  
+Video https://youtu.be/YkynLEfMlyg?si=hDnzKKdQgeuRuI-K  
 Open in kaggle for better expierence https://www.kaggle.com/code/arayawat/network-traffic-anomaly-detection-using-ml/notebook  
 ## Objective  
 - Develop a Machine Learning model for automatically detecting network traffic anomalies.
