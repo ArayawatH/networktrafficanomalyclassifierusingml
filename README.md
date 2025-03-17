@@ -43,6 +43,7 @@ Using TII-SSRC-23. a comprehensive collection of network traffic patterns, metic
 - Adaptive Boosting
 - Categorical Boosting
 ## Result
+**Model:** https://o365cmu-my.sharepoint.com/:f:/g/personal/arayawat_h_cmu_ac_th/EsAp97f3VQZNvEPadiO3ProBvNFS5pZfAlbNPmfarC8hCg?e=5s7b7K  
 Consist of Accuracy, F1 Score, ROC AUC, Confusion Matrix, and Feature Importance  
 Time of training process will also be considered  
 ![__results___192_0](https://github.com/user-attachments/assets/daa960d2-7b49-400c-9854-533aad0ecfae)  
