@@ -1,9 +1,11 @@
 # Network Traffic Anomaly Classifier using ML  
+Open in kaggle for better expierence https://www.kaggle.com/code/arayawat/network-traffic-anomaly-detection-using-ml/notebook  
 ## Objective  
 - Develop a Machine Learning model for automatically detecting network traffic anomalies.
 - Analyze and compare different Machine Learning models to identify the most effective approach.
 - Enhance network security by preventing threats types such as DoS, Brute-force, and Mirai.
 ## Dataset  
+https://www.kaggle.com/datasets/daniaherzalla/tii-ssrc-23  
 Using TII-SSRC-23. a comprehensive collection of network traffic patterns, meticulously compiled to support the development and research of Intrusion Detection Systems (IDS).
 ## Datasets Breakdown (Type)
 ![image](https://github.com/user-attachments/assets/4c93eb66-fe0b-4dda-8016-f3676bccbcdb)  
