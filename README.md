@@ -10,13 +10,17 @@ Using TII-SSRC-23. a comprehensive collection of network traffic patterns, metic
 ### Benign
 ### Malicious
 **Bruteforce**  
-- A brute force attack involves repeatedly trying different passwords or keys until the correct one is found.  
+- A brute force attack involves repeatedly trying different passwords or keys until the correct one is found.
+
 **DoS**   
-- A DoS attack is an attempt to make a network resource unavailable by overwhelming it with excessive requests.  
+- A DoS attack is an attempt to make a network resource unavailable by overwhelming it with excessive requests.
+
 **Information Gathering**  
-- an attacker attempts to collect sensitive data about a network, its devices, and potential vulnerabilities  
+- an attacker attempts to collect sensitive data about a network, its devices, and potential vulnerabilities
+
 **Mirai(Malware)**  
 is a botnet that infects IoT devices and uses them to launch large-scale DDoS attacks.  
+
 ### Feature Categories Breakdown:
 - Basic Network Flow Identifiers
 - Flow Duration and Packet Statistics
