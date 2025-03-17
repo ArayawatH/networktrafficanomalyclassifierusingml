@@ -19,7 +19,7 @@ Using TII-SSRC-23. a comprehensive collection of network traffic patterns, metic
 - an attacker attempts to collect sensitive data about a network, its devices, and potential vulnerabilities
 
 **Mirai(Malware)**  
-is a botnet that infects IoT devices and uses them to launch large-scale DDoS attacks.  
+-  is a botnet that infects IoT devices and uses them to launch large-scale DDoS attacks.  
 
 ### Feature Categories Breakdown:
 - Basic Network Flow Identifiers
